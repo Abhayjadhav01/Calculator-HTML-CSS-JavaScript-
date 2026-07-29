@@ -1,4 +1,4 @@
-# 🧮 Calculator - HTML, CSS & JavaScript
+# Calculator - HTML, CSS & JavaScript
 
 A modern, responsive calculator built using **HTML**, **CSS**, and **Vanilla JavaScript**. This project performs basic arithmetic operations with a clean user interface inspired by modern calculator applications.
 
@@ -84,7 +84,7 @@ cd Calculator-HTML-CSS-JavaScript-
 
 GitHub: https://github.com/Abhayjadhav01
 
-LinkedIn: *(Add your LinkedIn profile link here)*
+LinkedIn: *(https://www.linkedin.com/public-profile/settings/)*
 
 ---
 
